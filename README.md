@@ -21,11 +21,7 @@
   <img align="center" title="Jest" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
   <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="right" alt="Alex-Profile" height="200" width="200" src="https://share-cdn.picrew.me/shareImg/org/202108/94097_UGYJyT03.png">
-  
-              
+  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">          
 </div>
 
   ##
@@ -35,5 +31,9 @@
   <a href="https://www.linkedin.com/in/alexdecampos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/AlexdeCampos/AlexdeCampos/blob/output/github-contribution-grid-snake.svg)
-  
+</div>
+<div>
+	<a href="https://app.daily.dev/alexcamposDev">
+    <img src="https://api.daily.dev/devcards/662b009952e44410bc1aaaf002e1f38e.png?r=akt" width="400" alt="Alex de Campos's Dev Card"/>
+	</a>
 </div>
